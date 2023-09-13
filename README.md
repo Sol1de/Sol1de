@@ -7,7 +7,7 @@
 ## <div align="right">💪Mes compétences</div>
 <div align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sol1de&layout=compact)](https://github.com/Sol1de)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sol1de&show_icons=true&theme=tokyonight&layout=pie)](https://github.com/Sol1de)
 
 </div>
 
